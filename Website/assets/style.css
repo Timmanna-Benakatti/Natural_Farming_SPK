@@ -1,0 +1,496 @@
+/* ============================================================
+   ಶೂನ್ಯ ಬಂಡವಾಳ ನೈಸರ್ಗಿಕ ಕೃಷಿ — ಸೈಟ್ ಶೈಲಿ (Shared Site Stylesheet)
+   ============================================================ */
+
+:root {
+  --green-dark: #1f4d2e;
+  --green: #2e7d4f;
+  --green-light: #e8f5ea;
+  --gold: #c98a1f;
+  --gold-light: #fdf1dc;
+  --blue-light: #e8f2f8;
+  --blue: #2b6a8f;
+  --cream: #faf6ee;
+  --brown: #3b2f22;
+  --brown-soft: #6b5c4a;
+  --red-soft: #b23a3a;
+  --card-border: #e3dac9;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--cream);
+  color: var(--brown);
+  font-family: 'Noto Sans Kannada', 'Noto Sans', -apple-system, sans-serif;
+  line-height: 1.85;
+  font-size: 17px;
+}
+
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 24px 80px; }
+.wrap-wide { max-width: 1120px; margin: 0 auto; padding: 0 24px 80px; }
+
+a { color: var(--blue); }
+strong { color: var(--green-dark); }
+
+/* ---------------- Site-wide top navbar ---------------- */
+
+.site-nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--green-dark);
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+.site-nav-inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 12px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.site-nav .brand {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 700;
+  font-size: 16px;
+  color: #fff;
+  text-decoration: none;
+}
+.site-nav .brand .leaf { font-size: 18px; }
+.site-nav .links { display: flex; gap: 22px; flex-wrap: wrap; }
+.site-nav .links a {
+  color: #dff0e4;
+  text-decoration: none;
+  font-size: 14.5px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  padding: 4px 2px;
+  border-bottom: 2px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+.site-nav .links a:hover,
+.site-nav .links a.active {
+  color: #fff;
+  border-bottom-color: var(--gold);
+}
+
+/* ---------------- Hero (episode pages) ---------------- */
+
+.hero {
+  background: linear-gradient(135deg, var(--green-dark), var(--green));
+  color: #fff;
+  padding: 48px 24px 40px;
+  margin-bottom: 8px;
+}
+.hero-inner { max-width: 860px; margin: 0 auto; }
+.hero .eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 13px;
+  color: var(--gold-light);
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.hero h1 { font-size: 30px; margin: 0 0 14px; line-height: 1.4; }
+.hero .meta { display: flex; flex-wrap: wrap; gap: 10px 24px; font-size: 14.5px; color: #dff0e4; }
+.hero .meta b { color: #fff; }
+
+/* ---------------- Typography / content blocks ---------------- */
+
+h2 {
+  color: var(--green-dark);
+  font-size: 22px;
+  margin-top: 46px;
+  padding-bottom: 8px;
+  border-bottom: 3px solid var(--gold);
+  display: inline-block;
+}
+h3 {
+  color: var(--green);
+  font-size: 18.5px;
+  margin-top: 30px;
+}
+
+p { margin: 14px 0; }
+
+blockquote {
+  background: var(--gold-light);
+  border-left: 5px solid var(--gold);
+  margin: 20px 0;
+  padding: 14px 18px;
+  border-radius: 6px;
+  color: var(--brown-soft);
+  font-size: 15.5px;
+}
+blockquote p { margin: 6px 0; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  border-radius: 8px;
+  overflow: hidden;
+}
+th {
+  background: var(--green);
+  color: #fff;
+  text-align: left;
+  padding: 10px 14px;
+  font-size: 15px;
+}
+td {
+  padding: 10px 14px;
+  border-top: 1px solid var(--card-border);
+  font-size: 15.5px;
+  vertical-align: top;
+}
+tr:nth-child(even) td { background: var(--green-light); }
+
+ul, ol { padding-left: 26px; }
+li { margin: 6px 0; }
+
+code { background: var(--blue-light); padding: 2px 6px; border-radius: 4px; }
+
+hr { border: none; border-top: 2px dashed var(--card-border); margin: 40px 0; }
+
+.claim-tag {
+  background: #fde8d8;
+  color: var(--red-soft);
+  font-size: 12.5px;
+  font-weight: 700;
+  padding: 1px 8px;
+  border-radius: 10px;
+  white-space: nowrap;
+}
+
+.faq-block {
+  background: #fff;
+  border: 1px solid var(--card-border);
+  border-left: 5px solid var(--blue);
+  border-radius: 8px;
+  padding: 14px 18px;
+  margin: 14px 0;
+}
+.faq-q { color: var(--blue); font-weight: 700; }
+
+.note-banner,
+.note-banner-quote {
+  background: var(--blue-light);
+  border-left: 5px solid var(--blue);
+  border-radius: 6px;
+  padding: 14px 18px;
+  margin: 20px 0;
+  font-size: 15.5px;
+  color: var(--brown-soft);
+}
+
+.source-note {
+  background: #fff3f0;
+  border: 1px dashed var(--red-soft);
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin: 20px 0;
+  font-size: 14px;
+  color: var(--brown-soft);
+}
+
+.toc {
+  background: #fff;
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  padding: 20px 24px;
+  margin: 28px 0;
+}
+.toc-title { color: var(--green-dark); font-weight: 700; margin-bottom: 10px; font-size: 15px; text-transform: uppercase; letter-spacing: .04em;}
+.toc ol { margin: 0; padding-left: 20px; }
+.toc a { color: var(--brown); text-decoration: none; }
+.toc a:hover { color: var(--green); text-decoration: underline; }
+
+/* ---------------- Pagination footer (episode pages) ---------------- */
+
+.pager {
+  margin-top: 60px;
+  padding-top: 24px;
+  border-top: 3px solid var(--gold);
+}
+.pager-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.pager-link {
+  flex: 1 1 260px;
+  background: #fff;
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  padding: 14px 18px;
+  text-decoration: none;
+  color: var(--brown);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.pager-link:hover { border-color: var(--green); box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.pager-link .dir { font-size: 12.5px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--brown-soft); font-weight: 700; }
+.pager-link .ep-title { color: var(--green-dark); font-weight: 700; font-size: 15px; margin-top: 4px; }
+.pager-link.next { text-align: right; }
+.pager-link.placeholder { visibility: hidden; }
+
+.pager-meta {
+  text-align: center;
+  margin: 18px 0;
+  font-size: 14px;
+  color: var(--brown-soft);
+}
+.pager-meta a { color: var(--brown-soft); text-decoration: underline; }
+
+.pager-bottom-links {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-top: 8px;
+  font-size: 14.5px;
+}
+
+/* ---------------- Homepage ---------------- */
+
+.page-hero {
+  background: linear-gradient(135deg, var(--green-dark), var(--green));
+  color: #fff;
+  padding: 64px 24px 56px;
+  text-align: center;
+}
+.page-hero-inner { max-width: 760px; margin: 0 auto; }
+.page-hero .kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 13px;
+  color: var(--gold-light);
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+.page-hero h1 { font-size: 34px; margin: 0 0 16px; line-height: 1.4; }
+.page-hero p.lede { font-size: 16.5px; color: #dff0e4; margin: 0 auto; max-width: 620px; }
+.page-hero .stats {
+  display: flex;
+  justify-content: center;
+  gap: 36px;
+  margin-top: 32px;
+  flex-wrap: wrap;
+}
+.page-hero .stat-num { font-size: 26px; font-weight: 700; color: #fff; }
+.page-hero .stat-label { font-size: 12.5px; color: #cfe8d6; text-transform: uppercase; letter-spacing: 0.05em; }
+
+.section-header {
+  margin: 56px 0 22px;
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+}
+.section-header h2 {
+  margin-top: 0;
+  white-space: nowrap;
+}
+.section-header .section-sub {
+  color: var(--brown-soft);
+  font-size: 14.5px;
+}
+
+.ep-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.ep-card {
+  background: #fff;
+  border: 1px solid var(--card-border);
+  border-radius: 14px;
+  padding: 22px;
+  text-decoration: none;
+  color: var(--brown);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+}
+.ep-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(31,77,46,0.12);
+  border-color: var(--green);
+}
+.ep-card .ep-num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: var(--green-light);
+  color: var(--green-dark);
+  font-weight: 700;
+  font-size: 14px;
+}
+.ep-card .ep-card-title {
+  color: var(--green-dark);
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 0;
+}
+.ep-card .ep-card-teaser {
+  font-size: 14.5px;
+  color: var(--brown-soft);
+  line-height: 1.7;
+  flex-grow: 1;
+}
+.ep-card .ep-card-foot {
+  font-size: 13px;
+  color: var(--brown-soft);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 4px;
+  padding-top: 10px;
+  border-top: 1px solid var(--card-border);
+}
+.ep-card .read-more { color: var(--blue); font-weight: 700; }
+
+.about-block {
+  background: #fff;
+  border: 1px solid var(--card-border);
+  border-radius: 14px;
+  padding: 28px 30px;
+  margin: 40px 0;
+}
+.about-block h2 { margin-top: 0; }
+
+.site-footer {
+  text-align: center;
+  padding: 40px 24px 60px;
+  color: var(--brown-soft);
+  font-size: 13.5px;
+}
+.site-footer a { color: var(--brown-soft); }
+
+/* ---------------- Glossary page ---------------- */
+
+.glossary-search {
+  margin: 24px 0 30px;
+}
+.glossary-search input {
+  width: 100%;
+  padding: 14px 18px;
+  font-size: 16px;
+  border: 2px solid var(--card-border);
+  border-radius: 10px;
+  font-family: inherit;
+  background: #fff;
+  color: var(--brown);
+}
+.glossary-search input:focus {
+  outline: none;
+  border-color: var(--green);
+}
+.glossary-count {
+  font-size: 13.5px;
+  color: var(--brown-soft);
+  margin-top: 8px;
+}
+
+.glossary-table-wrap {
+  background: #fff;
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+table.glossary-table { margin: 0; box-shadow: none; border-radius: 0; }
+table.glossary-table th:nth-child(1) { width: 20%; }
+table.glossary-table th:nth-child(2) { width: 18%; }
+table.glossary-table th:nth-child(4) { width: 9%; }
+.glossary-ep-badge {
+  display: inline-block;
+  background: var(--green-light);
+  color: var(--green-dark);
+  font-size: 12px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 8px;
+}
+tr.glossary-row-hidden { display: none; }
+
+/* ---------------- Responsive ---------------- */
+
+/* Tables need horizontal scroll on narrow screens instead of squishing */
+table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+table.glossary-table { display: table; } /* wrapped separately below */
+.glossary-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+@media (max-width: 900px) {
+  .ep-grid { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+}
+
+@media (max-width: 640px) {
+  body { font-size: 16px; line-height: 1.75; }
+  .wrap, .wrap-wide { padding: 0 16px 60px; }
+
+  .site-nav-inner { padding: 10px 16px; }
+  .site-nav .brand { font-size: 14.5px; }
+  .site-nav .links { gap: 12px; }
+  .site-nav .links a { font-size: 13.5px; }
+
+  .hero, .page-hero { padding: 32px 16px 28px; }
+  .hero h1, .page-hero h1 { font-size: 22px; line-height: 1.4; }
+  .hero .eyebrow, .page-hero .kicker { font-size: 11.5px; }
+  .hero .meta { font-size: 13px; gap: 6px 16px; }
+  .page-hero p.lede { font-size: 15px; }
+  .page-hero .stats { gap: 20px; margin-top: 24px; }
+  .page-hero .stat-num { font-size: 22px; }
+
+  h2 { font-size: 19px; margin-top: 34px; }
+  h3 { font-size: 16.5px; margin-top: 24px; }
+
+  blockquote, .faq-block, .note-banner, .note-banner-quote, .source-note {
+    padding: 12px 14px;
+    font-size: 14.5px;
+  }
+  .toc { padding: 16px 18px; }
+
+  th, td { padding: 8px 10px; font-size: 14px; white-space: nowrap; }
+
+  .section-header { flex-direction: column; align-items: flex-start; gap: 4px; margin: 40px 0 16px; }
+  .ep-grid { grid-template-columns: 1fr; gap: 14px; }
+  .ep-card { padding: 18px; }
+  .about-block { padding: 20px 18px; }
+
+  .pager-links { flex-direction: column; }
+  .pager-link.next { text-align: left; }
+  .pager-bottom-links { flex-direction: column; gap: 10px; text-align: center; }
+
+  .glossary-search input { padding: 12px 14px; font-size: 15px; }
+  table.glossary-table th, table.glossary-table td { white-space: normal; }
+}
+
+@media (max-width: 400px) {
+  .hero h1, .page-hero h1 { font-size: 20px; }
+  .page-hero .stats { gap: 14px; }
+  .page-hero .stat-num { font-size: 19px; }
+}
+
+/* Prevent long unbroken Kannada/English tokens from causing horizontal overflow */
+body, .ep-card-teaser, .ep-card-title, blockquote, td, th {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+/* Images and any embedded media never overflow their container */
+img, svg, video { max-width: 100%; height: auto; }

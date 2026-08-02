@@ -1,0 +1,781 @@
+[
+  {
+    "kannada": "ಶೂನ್ಯ ಬಂಡವಾಳ ನೈಸರ್ಗಿಕ ಕೃಷಿ",
+    "translit": "Shoonya Bandavala Naisargika Krishi",
+    "meaning": "Zero Budget Natural Farming (ZBNF) — farming method popularized by Subhash Palekar that avoids purchased chemical/external inputs, relying instead on soil microorganisms activated via cow dung/urine-based preparations.",
+    "epNums": [
+      1
+    ]
+  },
+  {
+    "kannada": "ಭೂಮಿ ತಾಯಿ, ಅನ್ನಪೂರ್ಣ",
+    "translit": "Bhoomi Tayi, Annapurna",
+    "meaning": "\"Mother Earth, Goddess of Nourishment\" — the foundational metaphor that soil already contains everything a plant needs and nurtures all life without discrimination.",
+    "epNums": [
+      1
+    ]
+  },
+  {
+    "kannada": "ಜೀವಾಣುಗಳು",
+    "translit": "Jeevanugalu",
+    "meaning": "Soil microorganisms; the biological agents that convert locked/unavailable soil nutrients into plant-available form.",
+    "epNums": [
+      1
+    ]
+  },
+  {
+    "kannada": "ಜೀವಾಮೃತ",
+    "translit": "Jeevamrutha",
+    "meaning": "A fermented liquid culture (cow dung + cow urine + other ingredients) used to multiply beneficial soil microorganisms; applied to soil, not to leaves.",
+    "epNums": [
+      1
+    ]
+  },
+  {
+    "kannada": "ಬೀಜಾಮೃತ",
+    "translit": "Beejamrutha",
+    "meaning": "A cow dung/urine-based seed treatment applied before sowing to protect and activate seeds.",
+    "epNums": [
+      1
+    ]
+  },
+  {
+    "kannada": "ಆಚ್ಛಾದನೆ",
+    "translit": "Aachadana",
+    "meaning": "Mulching — covering soil to retain moisture and return organic matter; ZBNF recognizes multiple types (straw mulch, soil mulch, live/crop mulch).",
+    "epNums": [
+      1
+    ]
+  },
+  {
+    "kannada": "ವಾಫಸಾ",
+    "translit": "Waaphasa",
+    "meaning": "Balance of air and moisture in the soil (soil aeration + moisture management), as opposed to waterlogging.",
+    "epNums": [
+      1
+    ]
+  },
+  {
+    "kannada": "ಅಕಡಿ ಸಾಲು",
+    "translit": "Akadi Salu",
+    "meaning": "Traditional practice of alternating monocot (cereal) and dicot (legume) crop rows in intercropping/rotation.",
+    "epNums": [
+      1
+    ]
+  },
+  {
+    "kannada": "ಏಕದಳ",
+    "translit": "Ekadala",
+    "meaning": "Monocot crops (e.g., ragi/finger millet, jowar/sorghum, paddy) — single-leaf/grain family.",
+    "epNums": [
+      1
+    ]
+  },
+  {
+    "kannada": "ದ್ವಿದಳ",
+    "translit": "Dwidala",
+    "meaning": "Dicot crops (e.g., groundnut, cowpea, horse gram) — legume/pulse family.",
+    "epNums": [
+      1
+    ]
+  },
+  {
+    "kannada": "ಸೂಕ್ಷ್ಮ ತಂತು ಬೇರುಗಳು",
+    "translit": "Sookshma Tantu Beru / Root hairs",
+    "meaning": "Fine capillary root hairs, the actual site of water/nutrient absorption in plants — typically located at the canopy drip-line, not the trunk base.",
+    "epNums": [
+      1
+    ]
+  },
+  {
+    "kannada": "ಕಳೆ",
+    "translit": "Kale",
+    "meaning": "Weeds. In ZBNF philosophy, weeds are generally cut and left in place rather than removed from the field.",
+    "epNums": [
+      1
+    ]
+  },
+  {
+    "kannada": "ಸ್ವಯಂ ಅಭಿವೃದ್ಧಿ",
+    "translit": "Swayam Abhivruddhi",
+    "meaning": "Self-development — a seed's ability to grow into a full plant unaided, from seed to seed.",
+    "epNums": [
+      2
+    ]
+  },
+  {
+    "kannada": "ಸ್ವಯಂಪೋಷಿ",
+    "translit": "Swayamposhi",
+    "meaning": "Self-nourishing — the forest's ability to feed itself without external input.",
+    "epNums": [
+      2
+    ]
+  },
+  {
+    "kannada": "ಬೆಳಕಿನ ಕೃಷಿ",
+    "translit": "Belakina Krishi",
+    "meaning": "\"Light farming\" — designing crop placement and layering by each plant's sunlight requirement.",
+    "epNums": [
+      2
+    ]
+  },
+  {
+    "kannada": "ಜಲ ಕೃಷಿ",
+    "translit": "Jala Krishi",
+    "meaning": "\"Water farming\" — using atmospheric moisture and groundwater recharge rather than only extraction.",
+    "epNums": [
+      2
+    ]
+  },
+  {
+    "kannada": "ಪೋಷಕಾಂಶ ಕೃಷಿ",
+    "translit": "Poshakamsha Krishi",
+    "meaning": "\"Nutrient farming\" — the practice of unlocking existing soil nutrients via microbes rather than adding external fertilizer.",
+    "epNums": [
+      2
+    ]
+  },
+  {
+    "kannada": "ರೈಸೋಬಿಯಂ",
+    "translit": "Rhizobium",
+    "meaning": "A nitrogen-fixing bacterium that lives in root nodules of leguminous (dicot) plants and converts atmospheric nitrogen into plant-usable nitrate.",
+    "epNums": [
+      2
+    ]
+  },
+  {
+    "kannada": "ಬೇರು ಗಂಟುಗಳು",
+    "translit": "Beru Gantugalu",
+    "meaning": "Root nodules — small swellings on legume roots that house Rhizobium colonies; not to be confused with root-knot nematode disease.",
+    "epNums": [
+      2
+    ]
+  },
+  {
+    "kannada": "ರುಬಿಸ್ಕೋ ಪ್ರೋಟೀನ್",
+    "translit": "RuBisCO Protein",
+    "meaning": "The protein formed when raw sugar (from photosynthesis) combines with nitrogen; its accumulation is the plant's actual physical growth.",
+    "epNums": [
+      2
+    ]
+  },
+  {
+    "kannada": "ಬದುಮಣ್ಣು",
+    "translit": "Badu Mannu",
+    "meaning": "\"Bund soil\" — soil taken from field edges/commons never exposed to chemicals, used as a microbial starter in Jeevamrutha.",
+    "epNums": [
+      2
+    ]
+  },
+  {
+    "kannada": "ಪರ್ಚ್ ಕ್ರಾಪ್ಸ್",
+    "translit": "Perch Crops",
+    "meaning": "Tall crops (e.g. jowar, maize) planted amid a field so birds perch on them and prey on pest insects — a natural pest control method.",
+    "epNums": [
+      2
+    ]
+  },
+  {
+    "kannada": "ಘನ ಜೀವಾಮೃತ",
+    "translit": "Ghana Jeevamrutha",
+    "meaning": "Solid/dry form of Jeevamrutha (dung + jaggery + pulse flour + bund soil, dried and powdered) for use on rain-fed fields without irrigation.",
+    "epNums": [
+      3
+    ]
+  },
+  {
+    "kannada": "ಬುಟ್ಕಾಯಿ",
+    "translit": "Butkayi",
+    "meaning": "Stunted, immature pods that result when the same legume crop is grown repeatedly in the same spot, causing root-nodule growth to stall.",
+    "epNums": [
+      3
+    ]
+  },
+  {
+    "kannada": "ಕೋಗುಲೇಷನ್",
+    "translit": "Coagulation",
+    "meaning": "The clumping together of soil particles into a more granular structure, improving water infiltration in heavy black (regur) soils.",
+    "epNums": [
+      3
+    ]
+  },
+  {
+    "kannada": "ಸೊಪ್ಪು ತುಳಿಯುವುದು",
+    "translit": "Soppu Tuliyuvudu",
+    "meaning": "Traditional practice of treading nitrogen-rich green leaves (honge, neem, tangadi, ekke) into a paddy field before transplanting.",
+    "epNums": [
+      3
+    ]
+  },
+  {
+    "kannada": "ಗುರುತ್ವಾಕರ್ಷಣೆ",
+    "translit": "Gurutvakarshane",
+    "meaning": "Gravity — the force that draws monsoon clouds across long distances and pulls fallen rain down into the soil.",
+    "epNums": [
+      4
+    ]
+  },
+  {
+    "kannada": "ಕೇಶಾಕರ್ಷಣೆ",
+    "translit": "Keshakarshane",
+    "meaning": "Capillary action — the process by which water (and dissolved nutrients) already in the soil rises back up toward the surface as it warms and evaporates.",
+    "epNums": [
+      4
+    ]
+  },
+  {
+    "kannada": "ಕ್ಯಾನೋಪಿ",
+    "translit": "Canopy",
+    "meaning": "The leaf canopy of a plant, described as its \"face\" — where stress, hunger, and excess water all visibly show up first.",
+    "epNums": [
+      4
+    ]
+  },
+  {
+    "kannada": "ಟ್ರಾನ್ಸ್‌ಪಿರೇಷನ್",
+    "translit": "Transpiration",
+    "meaning": "The process by which a plant releases the majority of absorbed water as vapor through its leaves to maintain internal balance.",
+    "epNums": [
+      4
+    ]
+  },
+  {
+    "kannada": "ರೆಸ್ಟಿಂಗ್ ಪೀರಿಯಡ್",
+    "translit": "Resting Period",
+    "meaning": "The dormant, leaf-shedding period after harvest (autumn) during which a plant's remaining roots decompose, loosening the soil for the next season.",
+    "epNums": [
+      4
+    ]
+  },
+  {
+    "kannada": "ನಾಟಿ/ಜವಾರಿ ಬೀಜಗಳು",
+    "translit": "Naati/Jawari Beejagalu",
+    "meaning": "Native/landrace seeds — traditional, non-hybrid seed varieties that grow larger plants with deeper roots, making them more drought-resilient.",
+    "epNums": [
+      4
+    ]
+  },
+  {
+    "kannada": "ತಾಯಿ ಬೇರು",
+    "translit": "Taayi Beru",
+    "meaning": "Taproot — the deep primary root that draws moisture and nutrients from deep soil during drought stress, when surface moisture is unavailable.",
+    "epNums": [
+      4
+    ]
+  },
+  {
+    "kannada": "ಆಚ್ಛಾದನೆ/ಒದಿಕೆ",
+    "translit": "Aachadane/Odike",
+    "meaning": "Mulching — the third of ZBNF's four wheels, comprising three sub-types: soil mulching (tillage/weeding), live mulching (companion cropping), and dry mulching (straw cover).",
+    "epNums": [
+      5
+    ]
+  },
+  {
+    "kannada": "ಮಾಗಿ ಉಳುಮೆ",
+    "translit": "Maagi Ulume",
+    "meaning": "Pre-monsoon deep tillage done to draw nutrients from decomposed crop residue into the soil ahead of the first rains.",
+    "epNums": [
+      5
+    ]
+  },
+  {
+    "kannada": "ಬಹುಮಡಿ",
+    "translit": "Bahumadi",
+    "meaning": "The multi-tier/multi-storey planting system (big tree → small tree → shrub → bush → vine/grass) used mainly in horticulture and orchards.",
+    "epNums": [
+      5
+    ]
+  },
+  {
+    "kannada": "ತವರು ಮನೆ",
+    "translit": "Tavaru Mane",
+    "meaning": "\"Trap crop\" — a deliberately planted sacrificial crop (e.g. castor, arali) that draws pest insects away from the main crop; must not be sprayed.",
+    "epNums": [
+      5
+    ]
+  },
+  {
+    "kannada": "ನಡ ಮುರಿಯುವುದು",
+    "translit": "Nada Muriyuvudu",
+    "meaning": "The practice of gently treading and breaking the central shoot of a young ragi/aarka plant to stimulate tillering (more side shoots) about 20 days later.",
+    "epNums": [
+      5
+    ]
+  },
+  {
+    "kannada": "ಹ್ಯೂಮಸ್",
+    "translit": "Humus",
+    "meaning": "\"Jeevana dravya\" — organic matter formed from carbon and nitrogen combining in soil; its accumulation improves soil's physical, chemical, and biological properties.",
+    "epNums": [
+      5
+    ]
+  },
+  {
+    "kannada": "ಸಾವಯವ ಇಂಗಾಲ",
+    "translit": "Savayava Ingala",
+    "meaning": "Organic carbon — a key soil fertility index; ideal is 2.5-3%, most farmland today sits near 0.2%, ZBNF plots can reach 3.5-4%.",
+    "epNums": [
+      6
+    ]
+  },
+  {
+    "kannada": "C:N ಅನುಪಾತ",
+    "translit": "C:N Anupata",
+    "meaning": "Carbon-to-Nitrogen ratio (~10:1) required for organic carbon to permanently bind with nitrogen and form humus, rather than escaping back as CO2.",
+    "epNums": [
+      6
+    ]
+  },
+  {
+    "kannada": "ಗ್ಲಿರಿಸಿಡಿಯಾ",
+    "translit": "Glyricidia (Seemangi / Gobbarada Soppu)",
+    "meaning": "A soft-wooded, nitrogen-fixing tree planted among orchard rows to supply nitrogen to young horticultural saplings.",
+    "epNums": [
+      6
+    ]
+  },
+  {
+    "kannada": "ಅಗಸೆ",
+    "translit": "Agase (Chogache / Sede — Sesbania)",
+    "meaning": "A fast-growing, soft-stemmed nitrogen-fixing tree used similarly to Glyricidia in orchard intercropping design.",
+    "epNums": [
+      6
+    ]
+  },
+  {
+    "kannada": "ಬೇರು ಕಾಲು",
+    "translit": "Beru Kaalu",
+    "meaning": "A widely-held misconception that plants suffer from roots physically \"stepping on\" each other; the real cause is competition for scarce nutrients, especially nitrogen.",
+    "epNums": [
+      7
+    ]
+  },
+  {
+    "kannada": "ಕೋನಿಂಗ್",
+    "translit": "Coning",
+    "meaning": "Staggered-timing planting — planting fast, tall \"giant trees\" first and adding companion trees around them only after they've gained height, to avoid shade competition.",
+    "epNums": [
+      7
+    ]
+  },
+  {
+    "kannada": "ಚೆಂಡು ಹೂವು",
+    "translit": "Chenduhoovu (Marigold)",
+    "meaning": "Marigold — the only known natural remedy for root-knot nematode disease; its roots secrete Alpha-Terthienyl, which kills the pathogen; also attracts pollinators and can be sold.",
+    "epNums": [
+      7
+    ]
+  },
+  {
+    "kannada": "ಆಲ್ಫಾ ಟೆಟ್ರಾಥಯಿನೈಲ್",
+    "translit": "Alpha-Terthienyl",
+    "meaning": "The nematode-killing chemical compound secreted by marigold roots.",
+    "epNums": [
+      7
+    ]
+  },
+  {
+    "kannada": "ವೆಲ್ವೆಟ್ ಬೀನ್ಸ್",
+    "translit": "Velvet Beans (Nasugunni)",
+    "meaning": "A vigorous, sprawling legume used as ground cover between young orchard trees to suppress weeds and fix nitrogen while awaiting the main crop's maturity.",
+    "epNums": [
+      7
+    ]
+  },
+  {
+    "kannada": "ಆಂಟಿ-ಜರ್ಮಿನೇಟಿಂಗ್ ಪ್ರಾಪರ್ಟೀಸ್",
+    "translit": "Anti-Germinating Properties",
+    "meaning": "A seed's built-in dormancy/protection mechanism that prevents every fallen seed from sprouting (natural population control); Beejamrutha treatment safely helps seeds overcome this, raising germination from 60-80% to over 95%.",
+    "epNums": [
+      7
+    ]
+  },
+  {
+    "kannada": "ಇಳೆ ಬಿಡುವುದು",
+    "translit": "Ile Biduvudu",
+    "meaning": "The step in Beejamrutha preparation where a cloth bundle of dung is suspended in water overnight to release its microorganisms.",
+    "epNums": [
+      8
+    ]
+  },
+  {
+    "kannada": "ಭಕ್ಷಕ ಜೀವಾಣುಗಳು",
+    "translit": "Bhakshaka Jeevanugalu",
+    "meaning": "\"Predator microorganisms\" that emerge once a Jeevamrutha drum's microbial population outgrows its space, beginning to destroy the excess — the reason liquid Jeevamrutha must be used within 7-10 days.",
+    "epNums": [
+      8
+    ]
+  },
+  {
+    "kannada": "ಪಂಚಮಹಾಭೂತಗಳು",
+    "translit": "Panchamahabhutagalu",
+    "meaning": "The five classical elements (earth, water, fire, air, space) whose approximate proportions in plant/animal bodies are used to explain why only ~1.5% of a plant's mass (\"earth element\") comes from soil.",
+    "epNums": [
+      8
+    ]
+  },
+  {
+    "kannada": "ವಾಫಸಾ",
+    "translit": "Vaphasa",
+    "meaning": "ZBNF's fourth and final wheel — the balanced state of soil pores holding roughly equal air and water, achieved via Jeevamrutha microbes and intercrop root decomposition.",
+    "epNums": [
+      8
+    ]
+  },
+  {
+    "kannada": "ನೀಮಾಸ್ತ್ರ",
+    "translit": "Neemastra",
+    "meaning": "A neem-leaf-based botanical spray for sap-sucking pests (aphids, mealybugs); made with neem leaf, cow urine, and fresh dung, steeped 24-48 hours; must be used within 1-2 days.",
+    "epNums": [
+      9
+    ]
+  },
+  {
+    "kannada": "ಬ್ರಹ್ಮಾಸ್ತ್ರ",
+    "translit": "Brahmastra",
+    "meaning": "A multi-leaf botanical spray (neem plus several other leaves) for fruit and pod borers; steeped 48 hours in cow urine; can be stored up to 6 months.",
+    "epNums": [
+      9
+    ]
+  },
+  {
+    "kannada": "ಅಗ್ನಿಅಸ್ತ್ರ",
+    "translit": "Agniastra",
+    "meaning": "A stronger tobacco-and-hot-chili-based preparation for stem borers, boiled and applied by spot-spraying or syringe injection directly into the borer's hole.",
+    "epNums": [
+      9
+    ]
+  },
+  {
+    "kannada": "ಸಾಂಬ್ರಾಣಿ-ಗಂಜಲ",
+    "translit": "Sambrani-Gomutra",
+    "meaning": "A simple sap-sucking pest remedy made from benzoin resin (sambrani) steeped in cow urine for 7-8 days.",
+    "epNums": [
+      9
+    ]
+  },
+  {
+    "kannada": "ನೀರ್ ಮಜ್ಜಿಗೆ",
+    "translit": "Neer Majjige",
+    "meaning": "A fermented sour-buttermilk fungicide made from native cow's milk, curdled, churned, diluted, and soured for 2 days; safe enough to drink; stores up to 6 months.",
+    "epNums": [
+      9
+    ]
+  },
+  {
+    "kannada": "ಬಸಿ ಕಾಲುವೆ",
+    "translit": "Basi Kaluve",
+    "meaning": "Drainage channels dug between trees in waterlogged or clay-heavy land to prevent fungal disease caused by standing water.",
+    "epNums": [
+      9
+    ]
+  },
+  {
+    "kannada": "ಜೈವಿಕ ಬಲೆ",
+    "translit": "Jaivika Bale (Bio-catch)",
+    "meaning": "Natural pest suppression that emerges when many intercrop species attract a mix of parasitic and predator insects, which then keep pest populations in check without any spraying.",
+    "epNums": [
+      9
+    ]
+  },
+  {
+    "kannada": "ದಶಪರ್ಣಿ",
+    "translit": "Dashaparni",
+    "meaning": "A potent botanical concoction made from ten kinds of leaves plus dung and cow urine, fermented 15-30 days; used against stubborn pests that don't respond to Neemastra/Brahmastra/Agniastra.",
+    "epNums": [
+      10
+    ]
+  },
+  {
+    "kannada": "ಗಮೋಸಿಸ್",
+    "translit": "Gummosis (Kanda Soruvike)",
+    "meaning": "Fungal-driven sap oozing from wounds or nicks in tree trunks/stems, common in coconut; triggered by physical injury combined with excess moisture or heat.",
+    "epNums": [
+      10
+    ]
+  },
+  {
+    "kannada": "ಪನಾಮ ವಿಲ್ಟ್",
+    "translit": "Panama Wilt",
+    "meaning": "A banana disease causing leaves to dry from the tip and yellow/brown before dropping, rooted in an \"it needs lots of water\" mindset that leads to overwatering.",
+    "epNums": [
+      10
+    ]
+  },
+  {
+    "kannada": "ನಾಚಿಕೆ ಗಿಡ",
+    "translit": "Nachike Gida (Touch-me-not, Mimosa pudica)",
+    "meaning": "A thorny, leaf-folding plant used in a botanical spray against thrips/mite damage; also treated as a beneficial weed to be cut only after flowering but before seeding.",
+    "epNums": [
+      10
+    ]
+  },
+  {
+    "kannada": "ಹಿಂಗಾರಿ/ಮುಂಗಾರಿ",
+    "translit": "Hingari/Mungari",
+    "meaning": "The post-monsoon (rabi) and monsoon (kharif) growing seasons; sowing a crop in the wrong season strips it of the natural disease resistance it would otherwise have.",
+    "epNums": [
+      10
+    ]
+  },
+  {
+    "kannada": "ದ್ವಿತೀಯ ಸಂಶ್ಲೇಷಣೆ",
+    "translit": "Photosynthesis (Dwiteeya Samshleshane)",
+    "meaning": "The leaf process converting CO2 + water + sunlight into raw sugar (C6H12O6), releasing oxygen and surplus water back to the atmosphere.",
+    "epNums": [
+      11
+    ]
+  },
+  {
+    "kannada": "ಪತ್ರಹರಿತ್ತು",
+    "translit": "Chlorophyll (Patraharittu)",
+    "meaning": "The pigment that makes leaves green and drives photosynthesis.",
+    "epNums": [
+      11
+    ]
+  },
+  {
+    "kannada": "ಬೇರು ಸೂಸುವಿಕೆ",
+    "translit": "Root Exudation (Beru Soosuvike)",
+    "meaning": "The process by which a plant releases part of its manufactured food around its roots to feed soil microbes, which in turn convert unavailable soil nutrients into a plant-usable form.",
+    "epNums": [
+      11
+    ]
+  },
+  {
+    "kannada": "ಬೇಸಿನ್ ಮೆಥಡ್",
+    "translit": "Basin Method",
+    "meaning": "Traditional irrigation practice of building a raised basin around a tree trunk and pooling water there; becomes ineffective once the canopy outgrows the basin.",
+    "epNums": [
+      12
+    ]
+  },
+  {
+    "kannada": "ಚಾಮರ / ಕ್ಯಾನೋಪಿ",
+    "translit": "Chamara/Canopy",
+    "meaning": "The full spread of a plant's leaf canopy; the root system generally spreads to roughly the same width, which is where water and nutrients should be applied.",
+    "epNums": [
+      12
+    ]
+  },
+  {
+    "kannada": "ಉತ್ತರಾಯಣ/ದಕ್ಷಿಣಾಯನ",
+    "translit": "Uttarayana/Dakshinayana",
+    "meaning": "The sun's apparent northward movement (Dec 21-Jun 20) and southward movement (Jun 21-Dec 20); used to decide the correct north-south row orientation for crops.",
+    "epNums": [
+      12
+    ]
+  },
+  {
+    "kannada": "ದೈತ್ಯ ಮರ / ಧಾನ್ಯ",
+    "translit": "Daithya Mara / Dhanya",
+    "meaning": "A basic crop-planning classification: large horticultural \"giant trees\" (mango, cashew, tamarind) versus sun-hungry grain crops (rice, ragi, wheat, jowar).",
+    "epNums": [
+      12
+    ]
+  },
+  {
+    "kannada": "ಪಂಚತರಂಗಿಣಿ ಯೋಜನೆ",
+    "translit": "Panchatarangini (Five-Tier System)",
+    "meaning": "A five-layer crop-planning framework: giant tree, small tree, shrub, small plant/vine, and tuber-plus-litter — combined for maximum yield per plot.",
+    "epNums": [
+      13
+    ]
+  },
+  {
+    "kannada": "ಫುಟ್ ಕ್ಯಾಂಡಲ್",
+    "translit": "Foot Candle",
+    "meaning": "A unit of light intensity (light from a candle at one foot); giant trees and grain crops need over 7,000 foot-candles of peak summer sun to fruit well.",
+    "epNums": [
+      13
+    ]
+  },
+  {
+    "kannada": "ಏಕ ಕಣ್ಣಿನ ಬೀಜ ಪದ್ಧತಿ",
+    "translit": "Single-Eye-Sett Method",
+    "meaning": "A sugarcane seed-saving technique: each bud/eye is cut with an uneven ratio (1/3 base, 2/3 tip) and Beejamrutha-treated individually, cutting seed use from ~4,000 kg/acre to 250-400 kg/acre.",
+    "epNums": [
+      13
+    ]
+  },
+  {
+    "kannada": "ಕುಟುಂಬ ಸಾಲು",
+    "translit": "Kutumba Salu (Family Row)",
+    "meaning": "Within the sugarcane furrow system, the row reserved specifically for household food grains (rice, ragi, wheat) rather than cash-crop vegetables.",
+    "epNums": [
+      14
+    ]
+  },
+  {
+    "kannada": "ಕೂಳೆ ಬೆಳೆ",
+    "translit": "Koole Bele (Ratoon Crop)",
+    "meaning": "The second flush of cane that regrows from the stubble/roots after the first harvest, without replanting.",
+    "epNums": [
+      14
+    ]
+  },
+  {
+    "kannada": "ರೌದಿ",
+    "translit": "Roudi",
+    "meaning": "The leftover cane leaves and trash after harvest, spread as mulch on the neighbouring row rather than burned.",
+    "epNums": [
+      14
+    ]
+  },
+  {
+    "kannada": "ಅಗಸೆ (ಮರ)",
+    "translit": "Agase Tree (Sesbania grandiflora)",
+    "meaning": "A perennial nitrogen-fixing tree used in banana orchards alongside moringa and glyricidia to keep supplying nitrogen after legume intercrops get shaded out.",
+    "epNums": [
+      15
+    ]
+  },
+  {
+    "kannada": "ಡ್ಯಾನ್ಸಿಂಗ್ ಲೈಟ್ಸ್ ಪರಿಣಾಮ",
+    "translit": "Dancing Lights Effect",
+    "meaning": "The dappled sunlight created as breeze moves the leaves of tall nitrogen-fixing trees, letting filtered light and partial shade reach the crops below.",
+    "epNums": [
+      15
+    ]
+  },
+  {
+    "kannada": "ಹುಳಿ ಮಜ್ಜಿಗೆ",
+    "translit": "Huli Majjige (Sour Buttermilk Fungicide)",
+    "meaning": "The full recipe for a key fungicide: milk is cultured into curd, churned to buttermilk without butter forming, then fermented 2-3 days until sharply sour before diluting for spray; used against Panama Wilt, mildew, and other fungal issues.",
+    "epNums": [
+      16
+    ]
+  },
+  {
+    "kannada": "ಬಂಚಿ ಟಾಪ್",
+    "translit": "Bunchy Top",
+    "meaning": "A viral banana disease where leaves suddenly shrink into broom-like clusters; the guest advises against the common practice of burning infected plants, favoring mulch and extra Jeevamrutha instead.",
+    "epNums": [
+      16
+    ]
+  },
+  {
+    "kannada": "ಚಿಲ್ಕ ನೀರು",
+    "translit": "Chilka Neeru",
+    "meaning": "The very low-moisture state a ripe coconut must be dried down to (only 2-3 spoons of water left inside) before it's suitable for sowing as seed.",
+    "epNums": [
+      19
+    ]
+  },
+  {
+    "kannada": "ಮಡಿ",
+    "translit": "Madi",
+    "meaning": "A nursery bed used for sprouting seeds, nuts, or paddy seedlings before transplanting.",
+    "epNums": [
+      19
+    ]
+  },
+  {
+    "kannada": "ಎಫ್‌ವೈಎಂ",
+    "translit": "FYM (Farm Yard Manure)",
+    "meaning": "Plain dried, powdered, sieved native-cow dung stored on its own (without the fermented Jeevamrutha additions), used as a simpler soil input.",
+    "epNums": [
+      23
+    ]
+  },
+  {
+    "kannada": "ಮೆಟಾರೈಜಿಯಂ",
+    "translit": "Metarhizium",
+    "meaning": "A beneficial fungus present in solid Jeevamrutha; white grubs and dung beetles that feed on the Jeevamrutha ingest it and are killed from within, giving natural grub control without a separate pesticide.",
+    "epNums": [
+      24
+    ]
+  },
+  {
+    "kannada": "ಅಕ್ಕಡಿ ಸಾಲು",
+    "translit": "Akkadi Salu (Strip Intercrop)",
+    "meaning": "A block of several rows (e.g. 3-4) set aside within a tall grain crop like jowar for a shorter companion crop (safflower, linseed, chana), making the shorter crop easier to manage than if scattered through every row.",
+    "epNums": [
+      24
+    ]
+  },
+  {
+    "kannada": "ಪಗಡೆ ದಾಯ",
+    "translit": "Pagade Daya (Checkerboard Spacing)",
+    "meaning": "A grid-pattern single-seedling wide spacing (8, 10, 12, or 16 inches square) for direct-sown or transplanted rice, allowing each plant's roots to spread freely on all sides.",
+    "epNums": [
+      25
+    ]
+  },
+  {
+    "kannada": "ಗುತ್ತಿ ನಾಟಿ",
+    "translit": "Gutthi Naati (Clump Transplanting)",
+    "meaning": "The conventional practice of transplanting 4-5 rice seedlings together per spot out of fear of poor germination; blocks airflow and sunlight, causing fungal blast disease and lower yield.",
+    "epNums": [
+      25
+    ]
+  },
+  {
+    "kannada": "ಅರಿ ಬಿಡುವುದು",
+    "translit": "Ari Biduvudu (Windrow Drying)",
+    "meaning": "Leaving cut grain stalks lying in the row for a few days after harvest so remaining nutrients in the still-green leaf/stem transfer into the grain, reducing chaff/empty grains.",
+    "epNums": [
+      26
+    ]
+  },
+  {
+    "kannada": "ಬರಬತ್ತ",
+    "translit": "Barabhatta (Dry-Sown Rice)",
+    "meaning": "Direct dry-cultivation of rice without a flooded nursery: seed is soaked 6 hours, treated in Beejamrutha, and sown 1-2 seeds per spot in a checkerboard grid with solid Jeevamrutha.",
+    "epNums": [
+      26
+    ]
+  },
+  {
+    "kannada": "ಸಹಜೀವನ ಗಿಡಗಳು",
+    "translit": "Sahajeevana Gidagalu (Symbiotic Plants)",
+    "meaning": "Companion plants grown together in a polyculture whose roots interlock underground and exchange nutrients, while also disrupting pest life cycles compared to monocropping.",
+    "epNums": [
+      27
+    ]
+  },
+  {
+    "kannada": "ಜೀವನದ್ರವ್ಯ / ಹ್ಯೂಮಸ್",
+    "translit": "Jeevanadravya / Humus",
+    "meaning": "The dark organic substance formed when 10 carbon particles bond with 1 nitrogen particle as dead organisms and plant waste decompose; 1kg of it absorbs about 6L of atmospheric moisture per day, explaining why some natural-farming fields look dry on top yet stay green.",
+    "epNums": [
+      28
+    ]
+  },
+  {
+    "kannada": "ಸಸಿ ಗಡಸುಗೊಳಿಸುವಿಕೆ",
+    "translit": "Hardening of Seedlings",
+    "meaning": "Acclimatizing shade-raised nursery seedlings to open sunlight for 2-3 days before transplanting, to prevent transplant shock and wilting.",
+    "epNums": [
+      29
+    ]
+  },
+  {
+    "kannada": "ತಂತಿ ಪೈರು / ದಾಯಿದ ಪೈರು",
+    "translit": "Tanti Pairu / Dayida Pairu",
+    "meaning": "A traditional row-spacing pattern for direct-sown ragi/millet where an extra 1-foot row is inserted between the main 2x2ft grid lines to increase plant density without crowding.",
+    "epNums": [
+      36
+    ]
+  },
+  {
+    "kannada": "ಹುಳಿ ಮಜ್ಜಿಗೆ",
+    "translit": "Hulimajjige (Sour Buttermilk)",
+    "meaning": "A fungicide made by fermenting butter-skimmed buttermilk (diluted 1:4 with water) for 2-5 days until sharply sour, used against yellowing, blast, and leaf-curl diseases.",
+    "epNums": [
+      16,
+      37
+    ]
+  },
+  {
+    "kannada": "ದಶಪರ್ಣಿ",
+    "translit": "Dashaparni (Ten-Leaf Kashaya)",
+    "meaning": "The strongest-tier botanical pesticide, made from ten kinds of leaves (neem, papaya, custard apple, etc.) plus tobacco, chili, garlic, turmeric and ginger, fermented in shade for 40 days; used when Agniastra/Brahmastra fail to control severe pest outbreaks.",
+    "epNums": [
+      9,
+      10,
+      40
+    ]
+  }
+]
